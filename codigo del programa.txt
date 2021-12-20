@@ -1,0 +1,30 @@
+---------------------------------------------------------------------
+<div class="content-all">
+
+                                        para cambiar las imagenes se usa este codigo____    href="FOTOS\1.JPG"
+
+ 
+        <div class="content-carrousel">             
+            <figure><li><a href="FOTOS\1.JPG"><img src="FOTOS\1.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\2.JPG"><img src="FOTOS\2.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\3.JPG"><img src="FOTOS\3.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\4.JPG"><img src="FOTOS\4.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\5.JPG"><img src="FOTOS\5.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\6.JPG"><img src="FOTOS\6.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\7.JPG"><img src="FOTOS\7.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\8.JPG"><img src="FOTOS\8.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\9.JPG"><img src="FOTOS\9.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\10.JPG"><img src="FOTOS\10.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\11.JPG"><img src="FOTOS\11.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\12.JPG"><img src="FOTOS\12.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\13.JPG"><img src="FOTOS\13.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\14.JPG"><img src="FOTOS\14.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\15.JPG"><img src="FOTOS\15.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\16.JPG"><img src="FOTOS\16.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\17.JPG"><img src="FOTOS\17.JPG"height="90%" width="70%"></figure></a>
+            <figure><li><a href="FOTOS\18.JPG"><img src="FOTOS\18.JPG"height="90%" width="70%"></figure></a>
+            
+        
+        </div>
+    </div>
+---------------------------------------------------------------------------------------------------------------
